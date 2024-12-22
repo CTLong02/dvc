@@ -1,0 +1,5 @@
+outs:
+- md5: a0c5be9d028cae0713e6609fb322c905
+  size: 10
+  hash: md5
+  path: data.text
